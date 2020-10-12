@@ -1,4 +1,4 @@
-# HateGroupsProject
+# Hate Groups Project
 
 Jacob Buckelew, Maria Morales, Julie Sparks, Miriam Scheinblum
 
