@@ -1,6 +1,6 @@
 # HateGroupsProject
 
-Jacob Buckelew, Maria Morales, Juli Sparks, Miriam Scheinblum
+Jacob Buckelew, Maria Morales, Julie Sparks, Miriam Scheinblum
 
 CMS 375 Database Design and Development
 
