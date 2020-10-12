@@ -1,8 +1,8 @@
 # HateGroupsProject
 
-CMS 375 Database Design and Development
-
 Jacob Buckelew, Maria Morales, Juli Sparks, Miriam Scheinblum
+
+CMS 375 Database Design and Development
 
 Dr. Rochelle Elva
 
